@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="coatOfPaint">Coat</string>
+ <string name="coatJacket">Coat</string> 
+ <string name="1">One</string> 
+ <string name="2">Two</string> 
+ <string name="3">Three</string> 
+</resources>
